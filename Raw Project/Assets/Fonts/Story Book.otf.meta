@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 933db2e8db3dff54db0b84c30f4c0617
+timeCreated: 1486915473
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Story Book
+  fontNames:
+  - Story Book
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

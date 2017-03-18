@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AbilitypowerPickup.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AbilityChooser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ApplyFreeze.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CollectCoins.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DealDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeathMenuUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Glide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Heal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthAndResourceManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MusicManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OutOfBounds.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Powerjump.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowersManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProjectileAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIHoverManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnlockLevelDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinMenuUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinningManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AbilitypowerPickup.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

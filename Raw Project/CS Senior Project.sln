@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{76CC43D0-5A67-13C0-8B95-51CCEE32CE6F}") = "CS Senior Project", "Assembly-CSharp.csproj", "{A33A6A13-EDAA-99D2-0B6A-79094AD2D3A7}"
+EndProject
+Project("{76CC43D0-5A67-13C0-8B95-51CCEE32CE6F}") = "CS Senior Project", "Assembly-CSharp-Editor.csproj", "{AF26A7F0-02F4-BF23-9012-6DD4CD305526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33A6A13-EDAA-99D2-0B6A-79094AD2D3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33A6A13-EDAA-99D2-0B6A-79094AD2D3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33A6A13-EDAA-99D2-0B6A-79094AD2D3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33A6A13-EDAA-99D2-0B6A-79094AD2D3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF26A7F0-02F4-BF23-9012-6DD4CD305526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF26A7F0-02F4-BF23-9012-6DD4CD305526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF26A7F0-02F4-BF23-9012-6DD4CD305526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF26A7F0-02F4-BF23-9012-6DD4CD305526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 120
+		$2.TabsToSpaces = False
+		$2.EolMarker = Unix
+		$2.inheritsSet = VisualStudio
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.IndentSwitchBody = True
+		$3.BeforeMethodDeclarationParentheses = False
+		$3.BeforeMethodCallParentheses = False
+		$3.BeforeConstructorDeclarationParentheses = False
+		$3.NewLineBeforeConstructorInitializerColon = NewLine
+		$3.NewLineAfterConstructorInitializerColon = SameLine
+		$3.BeforeDelegateDeclarationParentheses = False
+		$3.NewParentheses = False
+		$3.SpacesBeforeBrackets = False
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
